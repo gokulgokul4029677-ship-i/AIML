@@ -1,6 +1,6 @@
 a=15
-b=13
-c=3
+b=20
+c=30
 if(a>b & a>c):
     print(a)
 elif(b>a & b>c):
